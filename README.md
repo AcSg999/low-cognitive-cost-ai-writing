@@ -9,7 +9,7 @@ AI写作和人类的高质量的回答究竟区别在哪？在深刻思考后，
 
 
 ```text
-请从 https://github.com/AcSg999/low-cognitive-cost-ai-writing安装 low-cognitive-cost-ai-writing 技能到当前全局skill，保留 SKILL.md、references/ 和 assets/，并确认当前客户端能识别这个 Skill。
+请从 https://github.com/AcSg999/low-cognitive-cost-ai-writing 安装 low-cognitive-cost-ai-writing 技能到全局 Skills 目录，保留 SKILL.md 和 references/，并确认当前客户端能识别它。
 ```
 
 ## 手动安装
